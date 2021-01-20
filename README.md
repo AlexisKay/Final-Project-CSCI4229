@@ -1,20 +1,20 @@
-CSCI 4229 Final Project
+**CSCI 4229 Final Project**
 
 Nuketown scene (from Black Ops) recreated in OpenGl. 
 
 **Key Binds:**
-	- L/l toggle lights
-	- M/m toggle light movement
-	- F/f toggle first perspective
-	- Q/q decrease ambience 
-	- E/e increase ambience 
-	- ARROW KEYS movement while in appropriate modes
-	- MOUSE DRAG move the scene while not in first person 
-	- pgup/pgdn zoom in/out
+- L/l toggle lights
+- M/m toggle light movement
+- F/f toggle first perspective
+- Q/q decrease ambience 
+- E/e increase ambience 
+- ARROW KEYS movement while in appropriate modes
+- MOUSE DRAG move the scene while not in first person 
+- pgup/pgdn zoom in/out
 
 
 --------------------------------------------------------------------
-12/1 FINAL COMMENTS: 
+**12/1 FINAL COMMENTS:** 
 
 This project is meant to be a scene best viewed from a first person point of view. This scence resembles a 
 video game map "Nuketown" with multiple details in the house structures and layouts. The lighting in this scene 
@@ -29,7 +29,7 @@ work on this scene in the future and create the scene I was initially going for.
 
 
 
-11/28 INITIAL COMMENTS: 
+**11/28 INITIAL COMMENTS:**
 
 I took the comments given by the proposal and decided to not do the explosion as originally proposed
 due to time and unnecessary struggles due to something overly ambitious. I decided to remain with 
