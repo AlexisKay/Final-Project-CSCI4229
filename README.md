@@ -1,4 +1,4 @@
-**CSCI 4229 Final Project**
+CSCI 4229 Final Project
 
 Nuketown scene (from Black Ops) recreated in OpenGl. 
 
